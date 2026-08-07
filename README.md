@@ -1,4 +1,3 @@
-md
 <!-- ========================================================= -->
 <!--            🚀 CYBERPUNK • JARVIS • AI PROFILE             -->
 <!-- ========================================================= -->
@@ -113,15 +112,14 @@ Mission:
 ---
 
 # 💻 Current Objectives
-
-bash
 > boot objectives...
 
-[✓] Learn new technologies
-[✓] Build scalable applications
-[✓] Improve algorithms
-[✓] Study Artificial Intelligence
-[✓] Open Source Contributions
+
+[x] Learn new technologies
+[x] Build scalable applications
+[x] Improve algorithms
+[x] Study Artificial Intelligence
+[x] Open Source Contributions
 [ ] Launch SaaS Project
 [ ] Reach 100 repositories
 [ ] Become Full Stack Specialist
@@ -210,7 +208,6 @@ ONLINE
 
 # ⚙ System Information
 
-text
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 SYSTEM NAME........... AI Developer Interface
@@ -230,7 +227,7 @@ SECURITY.............. ENABLED
 VERSION............... v2.0
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+
 
 ---
 
