@@ -1,4 +1,4 @@
-````md
+md
 <!-- ========================================================= -->
 <!--            🚀 CYBERPUNK • JARVIS • AI PROFILE             -->
 <!-- ========================================================= -->
@@ -37,7 +37,7 @@
 
 <img align="right" width="350" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-```yaml
+yaml
 Name: Kayque Fraga
 
 Role:
@@ -60,7 +60,7 @@ Mission:
   Learn.
   Build.
   Improve.
-```
+
 
 ---
 
@@ -115,7 +115,7 @@ Mission:
 
 # 💻 Current Objectives
 
-```bash
+bash
 > boot objectives...
 
 [✓] Learn new technologies
@@ -129,7 +129,7 @@ Mission:
 
 System Status:
 ONLINE
-```
+
 
 ---
 
@@ -211,7 +211,7 @@ ONLINE
 
 # ⚙ System Information
 
-```text
+text
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 SYSTEM NAME........... AI Developer Interface
@@ -248,29 +248,3 @@ VERSION............... v2.0
 <!-- ========================================================= -->
 <!--                        END OF FILE                        -->
 <!-- ========================================================= -->
-````
-
-### 🔧 Antes de publicar
-
-Substitua estes campos:
-
-* `YOUR_USERNAME`
-* `Your Name`
-* `your@email.com`
-* Links do LinkedIn e Instagram
-
-### 🐍 Snake Animation
-
-Crie um workflow em:
-
-```
-.github/workflows/snake.yml
-```
-
-para gerar automaticamente:
-
-```
-output/github-contribution-grid-snake-dark.svg
-```
-
-Assim a animação aparecerá automaticamente no perfil.
