@@ -114,15 +114,21 @@ Mission:
 # 💻 Current Objectives
 > boot objectives...
 
+- [x] Learn new technologies
 
-[x] Learn new technologies
-[x] Build scalable applications
-[x] Improve algorithms
-[x] Study Artificial Intelligence
-[x] Open Source Contributions
-[ ] Launch SaaS Project
-[ ] Reach 100 repositories
-[ ] Become Full Stack Specialist
+- [x] Build scalable applications
+
+- [x] Improve algorithms
+
+- [x] Study Artificial Intelligence
+
+- [x] Open Source Contributions
+
+- [ ] Launch SaaS Project
+
+- [ ] Reach 100 repositories
+
+- [ ] Become Full Stack Specialist
 
 System Status:
 ONLINE
